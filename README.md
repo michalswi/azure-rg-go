@@ -1,5 +1,5 @@
 
-Simple script to list and create Azure Resource Group.
+Simple script to manage Azure Resource Group.
 
 ```
 az login
